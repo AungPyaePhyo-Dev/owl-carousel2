@@ -1,0 +1,25 @@
+
+.discount-owl-carousel {
+    position: relative;
+    }
+    
+    .discount-owl-carousel .owl-nav .owl-prev {
+    position:  absolute;
+    left: -30px !important;
+    top: 30% !important;
+    font-size: 50px !important;
+    
+    }
+    
+    .discount-owl-carousel .owl-nav .owl-next {
+    position:  absolute;
+    right: -30px !important;
+    top: 30% !important;
+    font-size: 50px !important;
+    
+    }
+    
+    .carousel-bg {
+        background-color: #FFC091;
+    }
+    
